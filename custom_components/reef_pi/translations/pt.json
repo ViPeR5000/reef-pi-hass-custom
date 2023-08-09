@@ -1,0 +1,23 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Equipamento já configurador"
+        },
+        "error": {
+            "cannot_connect": "Falha na ligação",
+            "invalid_auth": "Falha na Autenticação",
+            "unknown": "Erro desconhecido"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Endereço",
+                    "password": "Senha",
+                    "username": "Utilizador",
+                    "verify": "Verificar o certificado TLS"
+                }
+            }
+        }
+    },
+    "title": "Integração Reef-PI"
+}
